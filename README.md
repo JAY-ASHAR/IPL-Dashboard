@@ -1,5 +1,8 @@
 # IPL-Dashboard
 ![Screenshot 2024-12-24 110302](https://github.com/user-attachments/assets/d6f8d36d-3c26-4deb-8b1b-f7b5850eb998)
+
+https://app.powerbi.com/reportEmbed?reportId=e7b03c97-aaa1-4832-b82e-09e5aefd6cb7&autoAuth=true&ctid=edf8c960-47d7-47bd-a1ed-077ca01c1b80
+
 This interactive IPL Data Insights Dashboard provides a comprehensive analysis of the Indian Premier League, offering a user-friendly interface to explore key statistics and trends across seasons. It is designed for cricket enthusiasts, analysts, and developers seeking meaningful insights into IPL data through dynamic visualizations.
 
 Key Features:
